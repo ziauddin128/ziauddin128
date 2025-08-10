@@ -8,11 +8,7 @@
 
 ---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ziauddin128" alt="ziauddin128" />
-  </a> 
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
