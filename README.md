@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB6MWF1a2t5dTd0aGRvOXRzYWx0bzFkeno4MjBxamNtdnNqczN1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rsp9jLIy0VZOKlZziw/giphy.gif" alt="Centered GIF" width="300px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Zia Uddin Bablu</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
