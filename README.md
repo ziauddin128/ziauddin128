@@ -15,40 +15,40 @@
 
 <h3 align="left">Technical Skills: </h3>
 
-<span align="left" style="margin-bottom: 0px">
+<span>
   <strong>🧠 Languages:</strong> 
   JavaScript (ES6) · Typescript · PHP
 </span>
 <br>
-<span align="left" style="margin-bottom: 0px">
+<span>
   <strong>🎨 Frontend:</strong> 
   React.js · Next.js · Redux Toolkit · Context API · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery · shadcn/ui · AJAX
 </span>
 
-<p align="left" style="margin-bottom: 0px">
+<span>
   <strong>🔧 Backend:</strong> 
   Node.js · Express.js · Laravel · RESTful APIs
-</p>
+</span>
  
-<p align="left" style="margin-bottom: 0px">
+<span>
   <strong>🗄️ Databases:</strong> 
   MySQL · MongoDB
-</p>
+</span>
 
-<p align="left" style="margin-bottom: 0px">
+<span>
   <strong>🔄 Data Fetching & State Management:</strong> 
   Axios · TanStack Query
-</p>
+</span>
 
-<p align="left" style="margin-bottom: 0px">
+<span>
   <strong>☁️ Cloud & DevOps</strong> 
   Firefox · Google Cloud
-</p>
+</span>
 
-<p align="left" style="margin-bottom: 0px">
+<span>
   <strong>🛠️ Other Tools</strong> 
   Postman · Insomnia GitHub · Vercel · Netlify
-</p>
+</span>
  
 ---
  
