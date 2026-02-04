@@ -24,27 +24,27 @@
   <strong>🎨 Frontend:</strong> 
   React.js · Next.js · Redux Toolkit · Context API · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery · shadcn/ui · AJAX
 </span>
-
+<br>
 <span>
   <strong>🔧 Backend:</strong> 
   Node.js · Express.js · Laravel · RESTful APIs
 </span>
- 
+ <br>
 <span>
   <strong>🗄️ Databases:</strong> 
   MySQL · MongoDB
 </span>
-
+<br>
 <span>
   <strong>🔄 Data Fetching & State Management:</strong> 
   Axios · TanStack Query
 </span>
-
+<br>
 <span>
   <strong>☁️ Cloud & DevOps</strong> 
   Firefox · Google Cloud
 </span>
-
+<br>
 <span>
   <strong>🛠️ Other Tools</strong> 
   Postman · Insomnia GitHub · Vercel · Netlify
