@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zia Uddin Bablu</h1>
-<h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
 🌟 I'm a **highly experienced Full Stack Web Developer** with strong expertise in both **PHP (Laravel)** and the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
 🚀 I specialize in building robust, scalable web applications, RESTful APIs, and modern UI/UX using React, Tailwind CSS, and Next.js.  
