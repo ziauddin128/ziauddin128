@@ -15,15 +15,15 @@
 
 <h3 align="left">Technical Skills: </h3>
 
-<p align="left" style="margin-bottom: 0px">
+<span align="left" style="margin-bottom: 0px">
   <strong>🧠 Languages:</strong> 
   JavaScript (ES6) · Typescript · PHP
-</p>
-
-<p align="left" style="margin-bottom: 0px">
+</span>
+<br>
+<span align="left" style="margin-bottom: 0px">
   <strong>🎨 Frontend:</strong> 
   React.js · Next.js · Redux Toolkit · Context API · HTML5 · CSS3 · Tailwind CSS · Bootstrap · jQuery · shadcn/ui · AJAX
-</p>
+</span>
 
 <p align="left" style="margin-bottom: 0px">
   <strong>🔧 Backend:</strong> 
