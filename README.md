@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZzZ3pwbnZqZm13NXozNmM3b282YXc3Znk5eTY1OXhsazd2N284eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kmQREsvNQrhrHdkN7G/giphy.gif" alt="Centered GIF" width="300px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg0cjh6MTQ2Ynd6dzFqdm95N2M1aG4yajZtMDhodTRocmhod3AzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.gif" alt="Centered GIF" width="300px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zia Uddin Bablu</h1>
